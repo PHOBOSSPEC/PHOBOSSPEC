@@ -1,4 +1,4 @@
-# 👋 DEV PHOBOS aqui!
+# 👋 DEV BUENO aqui!
 
 💻 Desenvolvedor apaixonado por tecnologia, jogos e soluções criativas.  
 🚀 Sempre aprendendo, sempre construindo.
