@@ -1,37 +1,55 @@
-# 👋 DEV BUENO aqui!
+<h1 align="center">Mateus Bueno</h1>
 
-💻 Desenvolvedor apaixonado por tecnologia, jogos e soluções criativas.  
-🚀 Sempre aprendendo, sempre construindo.
-
----
-
-## 🧠 Sobre mim
-- 👨‍💻 Desenvolvedor focado em criar experiências funcionais e bem estruturadas
-- 🎮 Curto bastante o universo de games e projetos interativos
-- 🛠️ Gosto de transformar ideias em código
+<p align="center">
+Desenvolvedor focado em software, sistemas interativos e desenvolvimento de jogos.
+</p>
 
 ---
 
-## 🎮 404 Game Not Found
-Sou **desenvolvedor da 404 Game Not Found**, um projeto focado em criação de jogos e experiências digitais.
+## 👨‍💻 Sobre mim
 
-🔗 **Acesse o projeto aqui:**  
-👉 [404 Game Not Found](https://github.com/404gnf-studios)
-
----
-
-## 🧰 Tecnologias & Ferramentas
-- 💡 Linguagens: `JavaScript`, `Python`, `C#`, `Lua` 
-- 🧱 Frameworks & Engines: `Unity`, `Godot`, `Node.js`
-- ⚙️ Outros: `Git`, `GitHub`, `APIs`
-
+Sou desenvolvedor com foco na criação de aplicações **funcionais, organizadas e eficientes**.  
+Tenho interesse especial em **desenvolvimento de software, jogos e projetos interativos**, sempre buscando transformar ideias em soluções práticas por meio da programação.
 
 ---
 
-## 📫 Onde me encontrar
-- 💼 GitHub: [github.com/XxMisticoxX](https://github.com/XxMisticoxX)
-- 🌐 Projeto atual: [Realmfall](https://github.com/404gnf-studios/realmfall.git)
+## 🎮 Projeto
+
+Atuo como desenvolvedor no projeto:
+
+### **404 Game Not Found**
+
+Projeto voltado para **desenvolvimento de jogos e experiências digitais**.
+
+🔗 **Acesse o projeto:**  
+https://github.com/404gnf-studios
 
 ---
 
+## 🧰 Tecnologias e Ferramentas
 
+### Linguagens
+`JavaScript` • `Python` • `C#` • `Lua`
+
+### Frameworks / Engines
+`Unity` • `Godot` • `Node.js`
+
+### Outras Ferramentas
+`Git` • `GitHub` • `APIs`
+
+---
+
+## 🚀 Projeto Atual
+
+**Realmfall**
+
+🔗 https://github.com/404gnf-studios/realmfall.git
+
+---
+
+## 📫 Contato
+
+💻 GitHub  
+https://github.com/XxMisticoxX
+
+---
