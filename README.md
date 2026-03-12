@@ -1,4 +1,4 @@
-<h1 align="center">Mateus Bueno</h1>
+<h1 align="center">DEV Bueno</h1>
 
 <p align="center">
 Desenvolvedor focado em software, sistemas interativos e desenvolvimento de jogos.
