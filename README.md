@@ -27,15 +27,17 @@ https://github.com/404gnf-studios
 ---
 
 ## 🧰 Tecnologias e Ferramentas
-
 ### Linguagens
-`JavaScript` • `Python` • `C#` • `Lua`
+
+`Python` • `JavaScript` • `HTML5` • `CSS` • `Lua` • `GDScript` • `SQL` • `JSON`
 
 ### Frameworks / Engines
+
 `Unity` • `Godot` • `Node.js`
 
 ### Outras Ferramentas
-`Git` • `GitHub` • `APIs`
+
+`Git` • `GitHub` • `Linux` • `APIs` • `Bancos de Dados`
 
 ---
 
