@@ -4,8 +4,6 @@ Sou desenvolvedor com foco na criação de aplicações funcionais, organizadas 
 
 Tenho interesse especial em desenvolvimento de software, jogos, aplicações web e projetos interativos, buscando transformar ideias em soluções práticas por meio da programação.
 
-Minha trajetória na programação começou em 2020, passando por diferentes áreas e tecnologias, desde Inteligência Artificial e desenvolvimento de jogos até desenvolvimento web, bancos de dados, automação e desenvolvimento Full Stack.
-
 ---
 
 # 🎮 Projetos
