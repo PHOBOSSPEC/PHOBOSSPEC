@@ -1,4 +1,4 @@
-# 👨‍💻 Sobre mim
+# Sobre mim
 
 Sou desenvolvedor com foco na criação de aplicações funcionais, organizadas e eficientes.
 
@@ -26,7 +26,7 @@ Projeto voltado para desenvolvimento de jogos e experiências digitais, reunindo
 
 ---
 
-# 🧰 Tecnologias e Ferramentas
+# Tecnologias e Ferramentas
 
 ## Linguagens
 
@@ -52,19 +52,19 @@ https://github.com/PHOBOSSPEC
 
 # 📚 Trajetória em Programação e Tecnologia
 
-### 🐍 2020 — Início em Programação e Inteligência Artificial
+### 2020 — Início em Programação e Inteligência Artificial
 
 Iniciei meus estudos em programação em 2020, utilizando Python e desenvolvendo um projeto de Inteligência Artificial voltado ao reconhecimento facial.
 
 ---
 
-### 🎮 2021 — Desenvolvimento de Jogos e Lua
+### 2021 — Desenvolvimento de Jogos e Lua
 
 Passei a estudar Lua e desenvolvimento de jogos com Unity, além de realizar formação pelo programa Edutech, do Governo do Estado do Paraná, com foco em JavaScript e Python.
 
 ---
 
-### 🌐 2022 — Desenvolvimento Web e Programação de Jogos
+### 2022 — Desenvolvimento Web e Programação de Jogos
 
 Aprofundei meus conhecimentos em HTML5, CSS e JavaScript para desenvolvimento web, mantendo os estudos em Lua e desenvolvimento de jogos.
 
@@ -72,19 +72,19 @@ Também atuei por aproximadamente dois meses como desenvolvedor em um projeto de
 
 ---
 
-### 💻 2023 — Aperfeiçoamento em Programação
+### 2023 — Aperfeiçoamento em Programação
 
 Continuei meus estudos em Python, Lua, HTML5, CSS e JavaScript, com foco em programação e desenvolvimento web.
 
 ---
 
-### 📖 2024 — Desenvolvimento Web
+### 2024 — Desenvolvimento Web
 
 Período de menor dedicação à programação, mantendo os conhecimentos adquiridos e utilizando principalmente HTML5, CSS e JavaScript em atividades acadêmicas e escolares.
 
 ---
 
-### 🤖 2025 — Microcontroladores, Git e Inteligência Artificial
+### 2025 — Microcontroladores, Git e Inteligência Artificial
 
 Ampliei meus conhecimentos para MicroPython, Arduino, Git, GitHub e JSON.
 
@@ -102,7 +102,7 @@ Também passei a utilizar o Google AI Studio como apoio ao desenvolvimento e apr
 
 ---
 
-### 🚀 2026 — Full Stack, Bancos de Dados e Automação
+### 2026 — Full Stack, Bancos de Dados e Automação
 
 Atuei como desenvolvedor Full Stack no desenvolvimento do site da Liga de Pediatria da UNIOESTE (LIPED), trabalhando com desenvolvimento web, SQL e bancos de dados.
 
