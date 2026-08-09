@@ -36,7 +36,7 @@ Projeto voltado para desenvolvimento de jogos e experiências digitais, reunindo
 
 ## Outras Ferramentas
 
-`Git` • `GitHub` • `Linux` • `APIs` • `Bancos de Dados` • `Arduino` • `Google AI Studio`
+`Git` • `GitHub` • `Linux` 
 
 ---
 
