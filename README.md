@@ -98,7 +98,7 @@ Também aprofundei meus estudos em Inteligência Artificial e Machine Learning, 
 
 Esses estudos fizeram parte da preparação para a Olimpíada Nacional de Inteligência Artificial (ONIA).
 
-Também passei a utilizar ferramentas de Inteligência Artificial como apoio ao desenvolvimento e aprendizado de programação.
+Também passei a utilizar o Google AI Studio como apoio ao desenvolvimento e aprendizado de programação.
 
 ---
 
