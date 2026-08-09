@@ -28,7 +28,7 @@ Projeto voltado para desenvolvimento de jogos e experiências digitais, reunindo
 
 ## Linguagens
 
-`Python` • `JavaScript` • `HTML5` • `CSS` • `Lua` • `GDScript` • `SQL` • `JSON` • `MicroPython`
+`Python` • `JavaScript` • `HTML5` • `CSS` • `Lua` • `GDScript` • `SQL` • 
 
 ## Frameworks / Engines
 
